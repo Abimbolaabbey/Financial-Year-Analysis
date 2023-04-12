@@ -67,4 +67,5 @@ This project involves analyzing financial data using Power BI. The report is foc
 This financial report analysis highlights significant differences between the current year and the previous year in terms of sales, orders, profit, and discounts offered. Additionally, it provides insights into the performance of different countries and segments. This information can be used to inform future business decisions and strategies.
 
 ## How to Use:
-The Power BI report used for this analysis can be accessed via [insert link to report]. The data used for this report is stored in [insert name of data source].
+The Power BI report used for this analysis can be accessed via [This link](https://app.powerbi.com/groups/me/reports/d723030e-f5ef-4d72-9564-43f49d2cc6fb/ReportSection)
+
